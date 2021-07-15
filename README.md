@@ -1,3 +1,3 @@
 # goonnoo
 
-<a href="goonnoo.com">Goonnoo.com</a> is an online free tools platform which has tools such as bulk domain to multiple IP converter and text case converter etc.
+Bulk convert domain to multiple IP addresses using [Domain to IP Conversion tool]{https://goonnoo.com/bulk_domain_to_ip_converter} by Goonnoo.com.
